@@ -30,6 +30,3 @@ The project is split into several modular components:
 
 ### Compilation
 You can compile the project using `g++` or your preferred IDE.
-
-```bash
-g++ main.cpp interface.cpp lexAnalysis.cpp expevaluator.cpp interpreter.cpp -o PySUB
